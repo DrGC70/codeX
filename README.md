@@ -9,3 +9,5 @@ https://codex-seven-flame.vercel.app/
 This project was created using API key offered by OpenAI. The server was deployed for free on https://render.com/, while the front end is deplyoed on https://vercel.com. 
 
 The user interface resembles the ChatGPT app. The code is written in JavaScript.
+
+In the client side for every single promt a unique ID is generated that is sent to the server where the API gets stored as an environmental variable. 
